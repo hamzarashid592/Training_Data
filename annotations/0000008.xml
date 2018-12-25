@@ -1,6 +1,6 @@
 <annotation>
   <folder>images</folder>
-  <filename>0000149.png</filename>
+  <filename>0000038.png</filename>
   <segmented>0</segmented>
   <size>
     <width>1415</width>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>291</xmin>
-      <ymin>62</ymin>
-      <xmax>332</xmax>
-      <ymax>84</ymax>
+      <xmin>1015</xmin>
+      <ymin>55</ymin>
+      <xmax>1056</xmax>
+      <ymax>85</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -1,6 +1,6 @@
 <annotation>
   <folder>images</folder>
-  <filename>0000007.png</filename>
+  <filename>0000034.png</filename>
   <segmented>0</segmented>
   <size>
     <width>1415</width>
@@ -13,22 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>727</xmin>
-      <ymin>45</ymin>
-      <xmax>773</xmax>
-      <ymax>79</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>bay_shosha</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>471</xmin>
-      <ymin>47</ymin>
-      <xmax>513</xmax>
-      <ymax>73</ymax>
+      <xmin>838</xmin>
+      <ymin>63</ymin>
+      <xmax>852</xmax>
+      <ymax>85</ymax>
     </bndbox>
   </object>
 </annotation>
